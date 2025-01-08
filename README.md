@@ -34,12 +34,15 @@ python logo_generator.py
 4. Enter a descriptive prompt for your logo when prompted (e.g., `"A sleek and modern logo for a tech startup with clean lines and blue accents."`).
 5. The generated logo will be saved as `logo.png` in the current directory.
 
-
-
 ## Customization
 You can customize the following parameters in the script:
 - `target_size`: Adjust the dimensions of the generated image.
 - `guidance_scale`: Modify the influence of your prompt on the generated image.
+- 
+![Screenshot from 2025-01-08 12-19-31](https://github.com/user-attachments/assets/28c2519f-fdd8-4fa3-a135-ec6475593746)
+![Screenshot from 2025-01-08 12-33-59](https://github.com/user-attachments/assets/94ee4a90-ac0c-4d12-881d-fdc8e23b29e9)
+![Screenshot from 2025-01-08 12-43-02](https://github.com/user-attachments/assets/75cb210c-4624-40c3-95d5-8a41e5fdc1ce)
+![Screenshot from 2025-01-08 12-42-53](https://github.com/user-attachments/assets/812fea3d-a6ce-4a02-92f8-9b5945b2110e)
 
 ## Notes
 - Ensure your API key is valid and has sufficient access to use the specified model.
